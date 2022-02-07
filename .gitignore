@@ -4,3 +4,5 @@ VERSION
 obj
 .history
 posh-git/
+
+posh-git/posh-git/
