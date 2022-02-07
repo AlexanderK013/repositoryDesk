@@ -1,8 +1,0 @@
-VERSION
-*.log
-*.nupkg
-obj
-.history
-posh-git/
-
-posh-git/posh-git/
