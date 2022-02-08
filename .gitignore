@@ -4,3 +4,9 @@ VERSION
 obj
 .history
 posh-git/
+/d1/d2/d3/
+!d1/d2/d3/install2.ps1
+!/d1/d2/d3/install2.ps1
+!install2.ps1
+!**/install2.ps1
+!**/install3.ps1
