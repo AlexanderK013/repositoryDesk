@@ -1,0 +1,6 @@
+VERSION
+*.log
+*.nupkg
+obj
+.history
+posh-git/
